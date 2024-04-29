@@ -57,6 +57,13 @@
     display: none;  
 }
 
+
 .small-sidebar hr {
     display: none;
+}
+
+
+.side-link.active img {
+    padding-bottom: 2px;
+    border-bottom: 3px solid red;
 }

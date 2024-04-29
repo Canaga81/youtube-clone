@@ -30,7 +30,7 @@ const PlayVideo = () => {
         <div className="publisher">
             <img src={jack} alt="" />
             <div>
-                <p>Canaga</p>
+                <p>Nygma</p>
                 <span>1M Subscribers</span>
             </div>
             <button>Subscribe</button>
